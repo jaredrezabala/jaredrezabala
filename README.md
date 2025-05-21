@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Jared Rezabala</h1>
 
 <p align="center">
-  Solution & Configuration Architect @ Graphite | Software Developer | Lifelong Learner
+  Solution & Configuration Architect @ Graphite | Future Software Developer | Lifelong Learner
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jaredrezabala/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jaredrezabala@example.com">
+  <a href="mailto:rezabalajared@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
